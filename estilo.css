@@ -1,0 +1,58 @@
+body {
+    background: rgb(30, 30, 31);
+    font: normal 15pt arial;
+}
+
+header {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+section {
+    background: rgb(247, 240, 240);
+    /*cor*/
+    border-radius: 30px;
+    /*borda*/
+    padding: 15px;
+    /*espaço*/
+    width: 500px;
+    /*largura*/
+    margin: auto;
+    /*centralizar*/
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.568);
+    /*sombra da borda*/
+
+}
+
+#txtano {
+    border-radius: 11px;
+    padding: 2px;
+    box-shadow: 5px 5px 5px rgb(12, 12, 12)
+}
+
+#butao {
+    border-radius: 7px;
+}
+
+#butao1 {
+    border-radius: 7px;
+}
+
+#res {
+    text-align: center;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+#horas {
+    font: normal 12pt arial;
+    color: white;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    padding: 15px;
+}
